@@ -1,14 +1,12 @@
 import torch
-from torchvision import datasets, transforms
+from torchvision import datasets
 from torch.utils.data import DataLoader
 from sklearn.model_selection import StratifiedShuffleSplit
 import numpy as np
 
-def get_dataloaders(data_dir, batch_size=32, split_ratio=0.8):
-    transform = transforms.Compose([
-        transforms.Resize((224, 224)),
-        transforms.ToTensor()
-    ])
+def get_dataloaders(data_dir, batch_size=32, split_ratio=0.8, transform=None):
+    if transform is None:
+        raise ValueError("Transform must be provided (with or without augmentations).")
 
     dataset = datasets.ImageFolder(root=data_dir, transform=transform)
     targets = np.array(dataset.targets)
