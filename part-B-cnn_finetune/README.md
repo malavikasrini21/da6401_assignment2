@@ -24,3 +24,5 @@ WandB Sweep:
 - **Accuracy:** `87%`
 
 ## Finetuning Strategy - Only last layer of conv block and Fully connected layers are updated.
+
+## Saved .pth file was big so could not be uploaded. As mentioned model was saved and test split was evaluated to obtain test accuracy.
