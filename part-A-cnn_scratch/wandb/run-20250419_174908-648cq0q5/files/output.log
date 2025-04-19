@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/home/malavika/da6401_assignment2/part-A-cnn_scratch/evaluate.py", line 132, in <module>
+    evaluate(args.model_path, args.test_dir, args.batch_size, args.run_id)
+  File "/home/malavika/da6401_assignment2/part-A-cnn_scratch/evaluate.py", line 53, in evaluate
+    model.load_state_dict(state_dict)
+  File "/home/malavika/anaconda3/envs/cnn_env/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2189, in load_state_dict
+    raise RuntimeError('Error(s) in loading state_dict for {}:\n\t{}'.format(
+RuntimeError: Error(s) in loading state_dict for ConvNeuralNet:
+	size mismatch for convs.0.block.0.weight: copying a param with shape torch.Size([32, 3, 3, 3]) from checkpoint, the shape in current model is torch.Size([128, 3, 3, 3]).
+	size mismatch for convs.0.block.0.bias: copying a param with shape torch.Size([32]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for convs.0.block.1.weight: copying a param with shape torch.Size([32]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for convs.0.block.1.bias: copying a param with shape torch.Size([32]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for convs.0.block.1.running_mean: copying a param with shape torch.Size([32]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for convs.0.block.1.running_var: copying a param with shape torch.Size([32]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for convs.1.block.0.weight: copying a param with shape torch.Size([16, 32, 3, 3]) from checkpoint, the shape in current model is torch.Size([64, 128, 3, 3]).
+	size mismatch for convs.1.block.0.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([64]).
+	size mismatch for convs.1.block.1.weight: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([64]).
+	size mismatch for convs.1.block.1.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([64]).
+	size mismatch for convs.1.block.1.running_mean: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([64]).
+	size mismatch for convs.1.block.1.running_var: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([64]).
+	size mismatch for convs.2.block.0.weight: copying a param with shape torch.Size([16, 16, 3, 3]) from checkpoint, the shape in current model is torch.Size([32, 64, 5, 5]).
+	size mismatch for convs.2.block.0.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).
+	size mismatch for convs.2.block.1.weight: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).
+	size mismatch for convs.2.block.1.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).
+	size mismatch for convs.2.block.1.running_mean: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).
+	size mismatch for convs.2.block.1.running_var: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).
+	size mismatch for convs.3.block.0.weight: copying a param with shape torch.Size([16, 16, 3, 3]) from checkpoint, the shape in current model is torch.Size([16, 32, 5, 5]).
+	size mismatch for convs.4.block.0.weight: copying a param with shape torch.Size([16, 16, 3, 3]) from checkpoint, the shape in current model is torch.Size([16, 16, 7, 7]).
+	size mismatch for fc1.weight: copying a param with shape torch.Size([512, 1024]) from checkpoint, the shape in current model is torch.Size([256, 1024]).
+	size mismatch for fc1.bias: copying a param with shape torch.Size([512]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for fc2.weight: copying a param with shape torch.Size([10, 512]) from checkpoint, the shape in current model is torch.Size([10, 256]).
