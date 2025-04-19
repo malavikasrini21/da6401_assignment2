@@ -9,12 +9,13 @@ The project uses the **iNaturalist** dataset, a large-scale image classification
 - **`cnn_model.py`** – Defines a customizable CNN architecture built from scratch using PyTorch, including convolutional layers, batch normalization, activations, and fully connected layers.
 - **`train.py`** – Manages training, validation, argument parsing, and integration with Weights & Biases (W&B) for logging and sweep support.
 - **`datasetloader.py`** – Loads the dataset, applies transforms, and handles stratified splitting for training and validation sets.
+- **`datasetloader.py`** – augmentations.py to handle augmentations like rotation,flip,disorted images and some noise
 
 All hyperparameters like number of layers, kernel size, activation functions, and dense layer sizes are configurable, and W&B sweeps are used for systematic experimentation.
 
 ## Best Accuracy Achieved
 
-- **Accuracy:** `39.25%`
-- **Augmentation:** Not applied yet
+- **Accuracy:** `41.2%`
+- **Augmentation:** applied
 - **Sweep:** Conducted with varying configurations to reach this baseline
 
