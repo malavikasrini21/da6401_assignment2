@@ -1,0 +1,6 @@
+Epoch 1: valid accuracy 79.40%, train accuracy 67.01%, train loss 1.0908, valid loss 0.6974
+Epoch 2: valid accuracy 79.50%, train accuracy 78.05%, train loss 0.7160, valid loss 0.6471
+Epoch 3: valid accuracy 80.60%, train accuracy 79.78%, train loss 0.6509, valid loss 0.6155
+Epoch 4: valid accuracy 80.35%, train accuracy 79.12%, train loss 0.6520, valid loss 0.6458
+Epoch 5: valid accuracy 81.25%, train accuracy 79.81%, train loss 0.6179, valid loss 0.6111
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

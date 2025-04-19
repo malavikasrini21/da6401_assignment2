@@ -1,0 +1,16 @@
+{"time":"2025-04-19T09:40:57.740471754+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_094057-4e61ty7h/logs/debug-core.log"}
+{"time":"2025-04-19T09:40:58.109783143+05:30","level":"INFO","msg":"created new stream","id":"4e61ty7h"}
+{"time":"2025-04-19T09:40:58.109810845+05:30","level":"INFO","msg":"stream: started","id":"4e61ty7h"}
+{"time":"2025-04-19T09:40:58.109832626+05:30","level":"INFO","msg":"handler: started","stream_id":"4e61ty7h"}
+{"time":"2025-04-19T09:40:58.109832255+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4e61ty7h"}
+{"time":"2025-04-19T09:40:58.1098402+05:30","level":"INFO","msg":"sender: started","stream_id":"4e61ty7h"}
+{"time":"2025-04-19T09:40:58.411287739+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T09:44:19.405585985+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T09:44:19.405740946+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T09:44:20.380390629+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.386437241,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.113866035,"progress":"1014B/1014B"}],"total_operations":2}}
+{"time":"2025-04-19T09:44:21.292402605+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T09:44:21.583268512+05:30","level":"INFO","msg":"stream: closing","id":"4e61ty7h"}
+{"time":"2025-04-19T09:44:21.583276116+05:30","level":"INFO","msg":"handler: closed","stream_id":"4e61ty7h"}
+{"time":"2025-04-19T09:44:21.583280584+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4e61ty7h"}
+{"time":"2025-04-19T09:44:21.58329409+05:30","level":"INFO","msg":"sender: closed","stream_id":"4e61ty7h"}
+{"time":"2025-04-19T09:44:21.583329997+05:30","level":"INFO","msg":"stream: closed","id":"4e61ty7h"}

@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 78.35%, train accuracy 68.27%, train loss 1.0741, valid loss 0.6998
+Epoch 2: valid accuracy 78.80%, train accuracy 80.54%, train loss 0.6383, valid loss 0.6838
+Epoch 3: valid accuracy 79.50%, train accuracy 81.99%, train loss 0.5799, valid loss 0.6537
+Epoch 4: valid accuracy 78.65%, train accuracy 83.17%, train loss 0.5472, valid loss 0.6643
+Epoch 5: valid accuracy 78.35%, train accuracy 83.89%, train loss 0.5168, valid loss 0.6693
+Epoch 6: valid accuracy 80.25%, train accuracy 84.01%, train loss 0.4957, valid loss 0.6388
+Epoch 7: valid accuracy 80.00%, train accuracy 85.12%, train loss 0.4781, valid loss 0.6493
+Epoch 8: valid accuracy 80.35%, train accuracy 86.09%, train loss 0.4525, valid loss 0.6449
+Epoch 9: valid accuracy 79.30%, train accuracy 85.35%, train loss 0.4538, valid loss 0.6513
+Epoch 10: valid accuracy 78.85%, train accuracy 86.44%, train loss 0.4396, valid loss 0.6533
+Epoch 11: valid accuracy 80.35%, train accuracy 90.36%, train loss 0.3318, valid loss 0.6166
+Epoch 12: valid accuracy 80.35%, train accuracy 90.94%, train loss 0.3128, valid loss 0.6085
+Epoch 13: valid accuracy 81.05%, train accuracy 91.71%, train loss 0.3049, valid loss 0.6067
+Epoch 14: valid accuracy 81.05%, train accuracy 92.01%, train loss 0.2985, valid loss 0.6016
+Epoch 15: valid accuracy 80.75%, train accuracy 92.62%, train loss 0.2931, valid loss 0.6026
+
+Best model saved to best_model_598pcgyb.pth with validation accuracy: 81.05%

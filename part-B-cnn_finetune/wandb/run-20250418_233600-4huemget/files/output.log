@@ -1,0 +1,12 @@
+Epoch 1: valid accuracy 78.60%, train accuracy 69.52%, train loss 0.9647, valid loss 0.6675
+Epoch 2: valid accuracy 79.40%, train accuracy 85.62%, train loss 0.4558, valid loss 0.6622
+Epoch 3: valid accuracy 79.20%, train accuracy 91.40%, train loss 0.2775, valid loss 0.7025
+Epoch 4: valid accuracy 77.90%, train accuracy 94.91%, train loss 0.1612, valid loss 0.9037
+Epoch 5: valid accuracy 80.30%, train accuracy 95.92%, train loss 0.1364, valid loss 0.8430
+Epoch 6: valid accuracy 80.15%, train accuracy 97.50%, train loss 0.0867, valid loss 0.7912
+Epoch 7: valid accuracy 81.10%, train accuracy 99.11%, train loss 0.0345, valid loss 0.7925
+Epoch 8: valid accuracy 81.85%, train accuracy 99.79%, train loss 0.0106, valid loss 0.8446
+Epoch 9: valid accuracy 81.70%, train accuracy 99.90%, train loss 0.0051, valid loss 0.9162
+Epoch 10: valid accuracy 82.90%, train accuracy 99.92%, train loss 0.0032, valid loss 0.9810
+
+Best model saved to best_model_4huemget.pth with validation accuracy: 82.90%

@@ -1,0 +1,13 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+Epoch 1: valid accuracy 41.00%, train accuracy 22.27%, train loss 2.2740, valid loss 2.2470
+Epoch 2: valid accuracy 52.95%, train accuracy 43.92%, train loss 2.2316, valid loss 2.2107
+Epoch 3: valid accuracy 54.30%, train accuracy 53.87%, train loss 2.2039, valid loss 2.1919
+Epoch 4: valid accuracy 40.25%, train accuracy 48.03%, train loss 2.1921, valid loss 2.1691
+Epoch 5: valid accuracy 32.90%, train accuracy 32.13%, train loss 2.1146, valid loss 2.0771
+Epoch 6: valid accuracy 26.40%, train accuracy 25.89%, train loss 1.9991, valid loss 2.0475
+Epoch 7: valid accuracy 31.20%, train accuracy 25.38%, train loss 1.9621, valid loss 2.0367
+Epoch 8: valid accuracy 34.05%, train accuracy 29.40%, train loss 1.9189, valid loss 2.0224
+Epoch 9: valid accuracy 31.80%, train accuracy 30.75%, train loss 1.8646, valid loss 1.9350
+Epoch 10: valid accuracy 32.70%, train accuracy 31.93%, train loss 1.8123, valid loss 1.8848
+
+Best model saved to best_model_umvtc2wb.pth with validation accuracy: 54.30%

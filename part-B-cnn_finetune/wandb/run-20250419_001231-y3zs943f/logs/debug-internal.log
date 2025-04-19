@@ -1,0 +1,10 @@
+{"time":"2025-04-19T00:12:31.4789496+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_001231-y3zs943f/logs/debug-core.log"}
+{"time":"2025-04-19T00:12:31.854851862+05:30","level":"INFO","msg":"created new stream","id":"y3zs943f"}
+{"time":"2025-04-19T00:12:31.854873312+05:30","level":"INFO","msg":"stream: started","id":"y3zs943f"}
+{"time":"2025-04-19T00:12:31.854881618+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y3zs943f"}
+{"time":"2025-04-19T00:12:31.854894752+05:30","level":"INFO","msg":"sender: started","stream_id":"y3zs943f"}
+{"time":"2025-04-19T00:12:31.854975393+05:30","level":"INFO","msg":"handler: started","stream_id":"y3zs943f"}
+{"time":"2025-04-19T00:12:32.151224885+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:13:19.139684699+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:13:19.139710126+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:13:20.068724178+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

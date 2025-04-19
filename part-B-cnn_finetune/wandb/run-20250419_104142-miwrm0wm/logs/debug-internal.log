@@ -1,0 +1,16 @@
+{"time":"2025-04-19T10:41:42.097319695+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_104142-miwrm0wm/logs/debug-core.log"}
+{"time":"2025-04-19T10:41:42.467867656+05:30","level":"INFO","msg":"created new stream","id":"miwrm0wm"}
+{"time":"2025-04-19T10:41:42.467892412+05:30","level":"INFO","msg":"stream: started","id":"miwrm0wm"}
+{"time":"2025-04-19T10:41:42.467924973+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"miwrm0wm"}
+{"time":"2025-04-19T10:41:42.467941664+05:30","level":"INFO","msg":"sender: started","stream_id":"miwrm0wm"}
+{"time":"2025-04-19T10:41:42.467983422+05:30","level":"INFO","msg":"handler: started","stream_id":"miwrm0wm"}
+{"time":"2025-04-19T10:41:42.764520494+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:45:11.31764059+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T10:45:11.317675986+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T10:45:12.291041344+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.404220433,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.13512473,"progress":"1015B/1015B"}],"total_operations":2}}
+{"time":"2025-04-19T10:45:13.174761044+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T10:45:13.491494519+05:30","level":"INFO","msg":"stream: closing","id":"miwrm0wm"}
+{"time":"2025-04-19T10:45:13.491501351+05:30","level":"INFO","msg":"handler: closed","stream_id":"miwrm0wm"}
+{"time":"2025-04-19T10:45:13.491509166+05:30","level":"INFO","msg":"sender: closed","stream_id":"miwrm0wm"}
+{"time":"2025-04-19T10:45:13.491506661+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"miwrm0wm"}
+{"time":"2025-04-19T10:45:13.491552537+05:30","level":"INFO","msg":"stream: closed","id":"miwrm0wm"}

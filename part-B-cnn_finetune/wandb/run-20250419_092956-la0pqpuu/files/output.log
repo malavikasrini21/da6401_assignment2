@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/malavika/da6401_assignment2/part-B-cnn_finetune/train.py", line 98, in wandb_sweep
+    run.name = f"sweep_dense{config.dense_size}_drop{config.dropout}_freeze{config.freeze_option}_{int(time.time())}"
+NameError: name 'time' is not defined

@@ -1,0 +1,16 @@
+{"time":"2025-04-19T10:37:44.722867041+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_103744-x0dnicse/logs/debug-core.log"}
+{"time":"2025-04-19T10:37:45.091573217+05:30","level":"INFO","msg":"created new stream","id":"x0dnicse"}
+{"time":"2025-04-19T10:37:45.091605928+05:30","level":"INFO","msg":"stream: started","id":"x0dnicse"}
+{"time":"2025-04-19T10:37:45.091625314+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x0dnicse"}
+{"time":"2025-04-19T10:37:45.091717495+05:30","level":"INFO","msg":"sender: started","stream_id":"x0dnicse"}
+{"time":"2025-04-19T10:37:45.091718668+05:30","level":"INFO","msg":"handler: started","stream_id":"x0dnicse"}
+{"time":"2025-04-19T10:37:45.419198449+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:41:34.873384106+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T10:41:34.873427717+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T10:41:35.874349623+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.408623877,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.131738111,"progress":"1016B/1016B"}],"total_operations":2}}
+{"time":"2025-04-19T10:41:36.068725877+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T10:41:36.363329987+05:30","level":"INFO","msg":"stream: closing","id":"x0dnicse"}
+{"time":"2025-04-19T10:41:36.363344784+05:30","level":"INFO","msg":"handler: closed","stream_id":"x0dnicse"}
+{"time":"2025-04-19T10:41:36.363351527+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"x0dnicse"}
+{"time":"2025-04-19T10:41:36.363357107+05:30","level":"INFO","msg":"sender: closed","stream_id":"x0dnicse"}
+{"time":"2025-04-19T10:41:36.363408573+05:30","level":"INFO","msg":"stream: closed","id":"x0dnicse"}

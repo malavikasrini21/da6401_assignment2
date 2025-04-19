@@ -1,0 +1,54 @@
+_wandb:
+    value:
+        cli_version: 0.19.9
+        m: []
+        python_version: 3.10.16
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+                - 55
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+                - 55
+            "3":
+                - 2
+                - 14
+                - 17
+                - 23
+                - 55
+            "4": 3.10.16
+            "5": 0.19.9
+            "8":
+                - 5
+            "10":
+                - 3
+            "12": 0.19.9
+            "13": linux-x86_64
+batch_size:
+    value: 128
+dataset_path:
+    value: /home/malavika/da6401_assignment2/inaturalist_12K/train
+dense_size:
+    value: 1024
+dropout:
+    value: 0.5
+freeze_option:
+    value: 1
+in_dims:
+    value: 224
+learning_rate:
+    value: 0.001
+n_epochs:
+    value: 15
+use_wandb:
+    value: true
+wandb_project:
+    value: da6401_assignment2
+weight_decay:
+    value: 0

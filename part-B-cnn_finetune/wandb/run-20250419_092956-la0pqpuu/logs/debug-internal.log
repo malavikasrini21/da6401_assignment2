@@ -1,0 +1,16 @@
+{"time":"2025-04-19T09:29:56.837890419+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_092956-la0pqpuu/logs/debug-core.log"}
+{"time":"2025-04-19T09:29:57.198932462+05:30","level":"INFO","msg":"created new stream","id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:57.198997764+05:30","level":"INFO","msg":"stream: started","id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:57.199069418+05:30","level":"INFO","msg":"handler: started","stream_id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:57.19906513+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:57.199095687+05:30","level":"INFO","msg":"sender: started","stream_id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:57.504286149+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T09:29:57.589649195+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T09:29:57.589692917+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T09:29:58.552090857+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.064997315,"progress":"288B/288B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.064992766,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-19T09:29:59.111664362+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T09:29:59.407651091+05:30","level":"INFO","msg":"stream: closing","id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:59.407659718+05:30","level":"INFO","msg":"handler: closed","stream_id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:59.407664817+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:59.407670488+05:30","level":"INFO","msg":"sender: closed","stream_id":"la0pqpuu"}
+{"time":"2025-04-19T09:29:59.407691677+05:30","level":"INFO","msg":"stream: closed","id":"la0pqpuu"}

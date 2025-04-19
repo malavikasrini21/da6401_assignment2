@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 74.95%, train accuracy 71.57%, train loss 0.9252, valid loss 0.7600
+Epoch 2: valid accuracy 76.20%, train accuracy 83.50%, train loss 0.5273, valid loss 0.7995
+Epoch 3: valid accuracy 73.95%, train accuracy 85.99%, train loss 0.4447, valid loss 0.9282
+Epoch 4: valid accuracy 78.35%, train accuracy 89.27%, train loss 0.3629, valid loss 0.7237
+Epoch 5: valid accuracy 76.40%, train accuracy 90.36%, train loss 0.3130, valid loss 0.7429
+Epoch 6: valid accuracy 69.65%, train accuracy 92.07%, train loss 0.2638, valid loss 1.2851
+Epoch 7: valid accuracy 77.70%, train accuracy 92.72%, train loss 0.2362, valid loss 0.7427
+Epoch 8: valid accuracy 74.00%, train accuracy 93.46%, train loss 0.2163, valid loss 1.0364
+Epoch 9: valid accuracy 79.80%, train accuracy 98.00%, train loss 0.0782, valid loss 0.7277
+Epoch 10: valid accuracy 80.05%, train accuracy 99.15%, train loss 0.0328, valid loss 0.7532
+Epoch 11: valid accuracy 79.55%, train accuracy 99.55%, train loss 0.0170, valid loss 0.8125
+Epoch 12: valid accuracy 80.55%, train accuracy 99.60%, train loss 0.0183, valid loss 0.8232
+Epoch 13: valid accuracy 80.00%, train accuracy 99.84%, train loss 0.0118, valid loss 0.8404
+Epoch 14: valid accuracy 80.70%, train accuracy 99.94%, train loss 0.0071, valid loss 0.8118
+Epoch 15: valid accuracy 80.55%, train accuracy 99.91%, train loss 0.0061, valid loss 0.8196
+
+Best model saved to best_model_kf11zxlg.pth with validation accuracy: 80.70%

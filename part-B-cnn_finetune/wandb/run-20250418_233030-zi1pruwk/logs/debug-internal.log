@@ -1,0 +1,16 @@
+{"time":"2025-04-18T23:30:30.117161525+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250418_233030-zi1pruwk/logs/debug-core.log"}
+{"time":"2025-04-18T23:30:30.480692413+05:30","level":"INFO","msg":"created new stream","id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:30.480724172+05:30","level":"INFO","msg":"stream: started","id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:30.480778744+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:30.480799032+05:30","level":"INFO","msg":"sender: started","stream_id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:30.480806957+05:30","level":"INFO","msg":"handler: started","stream_id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:30.789756823+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:30:30.875650461+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:30:30.875695756+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:30:31.838337589+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.017049987,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.017045568,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T23:30:33.111667336+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:30:33.674917195+05:30","level":"INFO","msg":"stream: closing","id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:33.674926402+05:30","level":"INFO","msg":"handler: closed","stream_id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:33.67493067+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:33.674934357+05:30","level":"INFO","msg":"sender: closed","stream_id":"zi1pruwk"}
+{"time":"2025-04-18T23:30:33.674966077+05:30","level":"INFO","msg":"stream: closed","id":"zi1pruwk"}

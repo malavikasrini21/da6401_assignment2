@@ -1,0 +1,16 @@
+{"time":"2025-04-18T23:36:00.059274089+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250418_233600-4huemget/logs/debug-core.log"}
+{"time":"2025-04-18T23:36:00.42214892+05:30","level":"INFO","msg":"created new stream","id":"4huemget"}
+{"time":"2025-04-18T23:36:00.422186271+05:30","level":"INFO","msg":"stream: started","id":"4huemget"}
+{"time":"2025-04-18T23:36:00.422261583+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4huemget"}
+{"time":"2025-04-18T23:36:00.422261123+05:30","level":"INFO","msg":"sender: started","stream_id":"4huemget"}
+{"time":"2025-04-18T23:36:00.422298584+05:30","level":"INFO","msg":"handler: started","stream_id":"4huemget"}
+{"time":"2025-04-18T23:36:00.751749946+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:38:24.678387417+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:38:24.678424477+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:38:25.679379451+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.39177192,"progress":"999B/999B"},{"desc":"uploading config.yaml","runtime_seconds":0.081981895,"progress":"824B/824B"}],"total_operations":2}}
+{"time":"2025-04-18T23:38:26.164151709+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:38:26.482175088+05:30","level":"INFO","msg":"stream: closing","id":"4huemget"}
+{"time":"2025-04-18T23:38:26.482183755+05:30","level":"INFO","msg":"handler: closed","stream_id":"4huemget"}
+{"time":"2025-04-18T23:38:26.482189235+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4huemget"}
+{"time":"2025-04-18T23:38:26.482193674+05:30","level":"INFO","msg":"sender: closed","stream_id":"4huemget"}
+{"time":"2025-04-18T23:38:26.482227347+05:30","level":"INFO","msg":"stream: closed","id":"4huemget"}

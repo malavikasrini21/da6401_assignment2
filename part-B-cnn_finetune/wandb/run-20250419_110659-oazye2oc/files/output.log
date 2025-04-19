@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 77.95%, train accuracy 69.73%, train loss 0.9760, valid loss 0.7079
+Epoch 2: valid accuracy 72.75%, train accuracy 83.19%, train loss 0.5470, valid loss 0.8155
+Epoch 3: valid accuracy 74.85%, train accuracy 87.16%, train loss 0.4142, valid loss 0.8432
+Epoch 4: valid accuracy 75.65%, train accuracy 88.90%, train loss 0.3652, valid loss 0.7573
+Epoch 5: valid accuracy 79.20%, train accuracy 90.01%, train loss 0.3162, valid loss 0.7137
+Epoch 6: valid accuracy 80.90%, train accuracy 95.96%, train loss 0.1306, valid loss 0.6471
+Epoch 7: valid accuracy 80.85%, train accuracy 98.64%, train loss 0.0507, valid loss 0.6861
+Epoch 8: valid accuracy 81.15%, train accuracy 99.37%, train loss 0.0266, valid loss 0.7458
+Epoch 9: valid accuracy 80.75%, train accuracy 99.62%, train loss 0.0179, valid loss 0.7478
+Epoch 10: valid accuracy 80.25%, train accuracy 99.61%, train loss 0.0195, valid loss 0.7196
+Epoch 11: valid accuracy 80.40%, train accuracy 99.85%, train loss 0.0109, valid loss 0.7482
+Epoch 12: valid accuracy 81.15%, train accuracy 99.92%, train loss 0.0079, valid loss 0.7502
+Epoch 13: valid accuracy 81.05%, train accuracy 99.95%, train loss 0.0053, valid loss 0.7688
+Epoch 14: valid accuracy 81.20%, train accuracy 99.92%, train loss 0.0049, valid loss 0.7763
+Epoch 15: valid accuracy 80.80%, train accuracy 99.99%, train loss 0.0037, valid loss 0.8017
+
+Best model saved to best_model_oazye2oc.pth with validation accuracy: 81.20%

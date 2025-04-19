@@ -1,0 +1,16 @@
+{"time":"2025-04-18T23:30:36.391197019+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250418_233036-u42c6l9x/logs/debug-core.log"}
+{"time":"2025-04-18T23:30:36.755038164+05:30","level":"INFO","msg":"created new stream","id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:36.755056599+05:30","level":"INFO","msg":"stream: started","id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:36.755127862+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:36.755152759+05:30","level":"INFO","msg":"sender: started","stream_id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:36.755151306+05:30","level":"INFO","msg":"handler: started","stream_id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:37.12888888+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:30:37.213689064+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:30:37.213750699+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:30:38.176118026+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.098827103,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.098822735,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T23:30:38.308339122+05:30","level":"INFO","msg":"stream: closing","id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:38.673560973+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:30:38.983048994+05:30","level":"INFO","msg":"handler: closed","stream_id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:38.983060015+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:38.983098236+05:30","level":"INFO","msg":"sender: closed","stream_id":"u42c6l9x"}
+{"time":"2025-04-18T23:30:38.983102043+05:30","level":"INFO","msg":"stream: closed","id":"u42c6l9x"}

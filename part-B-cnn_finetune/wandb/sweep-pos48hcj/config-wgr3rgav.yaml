@@ -1,0 +1,24 @@
+wandb_version: 1
+
+batch_size:
+  value: 64
+dataset_path:
+  value: /home/malavika/da6401_assignment2/inaturalist_12K/train
+dense_size:
+  value: 512
+dropout:
+  value: 0.5
+freeze_option:
+  value: 0
+in_dims:
+  value: 224
+learning_rate:
+  value: 0.001
+n_epochs:
+  value: 15
+use_wandb:
+  value: true
+wandb_project:
+  value: da6401_assignment2
+weight_decay:
+  value: 0.005

@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 77.25%, train accuracy 70.61%, train loss 0.9296, valid loss 0.7564
+Epoch 2: valid accuracy 75.50%, train accuracy 84.02%, train loss 0.5101, valid loss 0.7813
+Epoch 3: valid accuracy 79.65%, train accuracy 86.52%, train loss 0.4598, valid loss 0.7267
+Epoch 4: valid accuracy 79.00%, train accuracy 90.19%, train loss 0.3373, valid loss 0.6700
+Epoch 5: valid accuracy 68.50%, train accuracy 91.65%, train loss 0.2919, valid loss 3.6281
+Epoch 6: valid accuracy 75.80%, train accuracy 92.17%, train loss 0.2593, valid loss 0.8744
+Epoch 7: valid accuracy 76.55%, train accuracy 92.81%, train loss 0.2815, valid loss 0.8700
+Epoch 8: valid accuracy 75.75%, train accuracy 94.79%, train loss 0.1845, valid loss 0.7656
+Epoch 9: valid accuracy 80.40%, train accuracy 97.99%, train loss 0.0757, valid loss 0.7062
+Epoch 10: valid accuracy 80.20%, train accuracy 99.40%, train loss 0.0256, valid loss 0.7668
+Epoch 11: valid accuracy 79.75%, train accuracy 99.69%, train loss 0.0152, valid loss 0.8181
+Epoch 12: valid accuracy 80.00%, train accuracy 99.75%, train loss 0.0105, valid loss 0.7868
+Epoch 13: valid accuracy 79.90%, train accuracy 99.94%, train loss 0.0060, valid loss 0.8725
+Epoch 14: valid accuracy 80.35%, train accuracy 99.95%, train loss 0.0088, valid loss 0.9023
+Epoch 15: valid accuracy 79.70%, train accuracy 99.91%, train loss 0.0052, valid loss 0.8604
+
+Best model saved to best_model_il0ysuhl.pth with validation accuracy: 80.40%

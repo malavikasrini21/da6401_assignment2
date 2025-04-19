@@ -1,0 +1,14 @@
+Downloading: "https://download.pytorch.org/models/resnet50-11ad3fa6.pth" to /home/malavika/.cache/torch/hub/checkpoints/resnet50-11ad3fa6.pth
+100%|████████████████████████████████████████████████████| 97.8M/97.8M [00:00<00:00, 110MB/s]
+Epoch 1: valid accuracy 71.40%, train accuracy 53.26%, train loss 1.8864, valid loss 1.4553
+Epoch 2: valid accuracy 74.10%, train accuracy 71.15%, train loss 1.2311, valid loss 1.0391
+Epoch 3: valid accuracy 76.95%, train accuracy 74.22%, train loss 0.9691, valid loss 0.8807
+Epoch 4: valid accuracy 78.15%, train accuracy 76.98%, train loss 0.8462, valid loss 0.7899
+Epoch 5: valid accuracy 78.85%, train accuracy 78.77%, train loss 0.7637, valid loss 0.7467
+Epoch 6: valid accuracy 79.00%, train accuracy 79.20%, train loss 0.7187, valid loss 0.7090
+Epoch 7: valid accuracy 79.60%, train accuracy 80.56%, train loss 0.6777, valid loss 0.6834
+Epoch 8: valid accuracy 80.00%, train accuracy 81.40%, train loss 0.6414, valid loss 0.6647
+Epoch 9: valid accuracy 80.20%, train accuracy 82.01%, train loss 0.6158, valid loss 0.6468
+Epoch 10: valid accuracy 80.15%, train accuracy 82.96%, train loss 0.5906, valid loss 0.6357
+
+Best model saved to best_model_d0usli81.pth with validation accuracy: 80.20%

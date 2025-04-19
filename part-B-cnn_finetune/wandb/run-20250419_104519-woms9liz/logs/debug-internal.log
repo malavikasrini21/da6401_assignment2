@@ -1,0 +1,16 @@
+{"time":"2025-04-19T10:45:19.228639975+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_104519-woms9liz/logs/debug-core.log"}
+{"time":"2025-04-19T10:45:19.592960527+05:30","level":"INFO","msg":"created new stream","id":"woms9liz"}
+{"time":"2025-04-19T10:45:19.592979934+05:30","level":"INFO","msg":"stream: started","id":"woms9liz"}
+{"time":"2025-04-19T10:45:19.592989472+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"woms9liz"}
+{"time":"2025-04-19T10:45:19.593004439+05:30","level":"INFO","msg":"handler: started","stream_id":"woms9liz"}
+{"time":"2025-04-19T10:45:19.593025609+05:30","level":"INFO","msg":"sender: started","stream_id":"woms9liz"}
+{"time":"2025-04-19T10:45:20.10518937+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:48:45.279673182+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T10:48:45.27970959+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T10:48:46.280664765+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.341782974,"progress":"232B/232B"},{"desc":"uploading output.log","runtime_seconds":0.341776412,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.077356673,"progress":"1016B/1016B"}],"total_operations":3}}
+{"time":"2025-04-19T10:48:46.596436013+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T10:48:46.921137837+05:30","level":"INFO","msg":"stream: closing","id":"woms9liz"}
+{"time":"2025-04-19T10:48:46.921144239+05:30","level":"INFO","msg":"handler: closed","stream_id":"woms9liz"}
+{"time":"2025-04-19T10:48:46.921151593+05:30","level":"INFO","msg":"sender: closed","stream_id":"woms9liz"}
+{"time":"2025-04-19T10:48:46.921149539+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"woms9liz"}
+{"time":"2025-04-19T10:48:46.921190786+05:30","level":"INFO","msg":"stream: closed","id":"woms9liz"}

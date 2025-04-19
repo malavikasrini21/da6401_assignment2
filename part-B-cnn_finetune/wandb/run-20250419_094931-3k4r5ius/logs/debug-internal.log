@@ -1,0 +1,16 @@
+{"time":"2025-04-19T09:49:31.808057527+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_094931-3k4r5ius/logs/debug-core.log"}
+{"time":"2025-04-19T09:49:32.172758048+05:30","level":"INFO","msg":"created new stream","id":"3k4r5ius"}
+{"time":"2025-04-19T09:49:32.172784538+05:30","level":"INFO","msg":"stream: started","id":"3k4r5ius"}
+{"time":"2025-04-19T09:49:32.172801169+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3k4r5ius"}
+{"time":"2025-04-19T09:49:32.172826787+05:30","level":"INFO","msg":"handler: started","stream_id":"3k4r5ius"}
+{"time":"2025-04-19T09:49:32.172829632+05:30","level":"INFO","msg":"sender: started","stream_id":"3k4r5ius"}
+{"time":"2025-04-19T09:49:32.447605049+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T09:53:07.078659568+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T09:53:07.078695255+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T09:53:08.079630653+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.258762297,"progress":"1.4KB/1.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.258757779,"progress":"235B/235B"}],"total_operations":2}}
+{"time":"2025-04-19T09:53:08.611221562+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T09:53:08.898775659+05:30","level":"INFO","msg":"stream: closing","id":"3k4r5ius"}
+{"time":"2025-04-19T09:53:08.898783825+05:30","level":"INFO","msg":"handler: closed","stream_id":"3k4r5ius"}
+{"time":"2025-04-19T09:53:08.898789135+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3k4r5ius"}
+{"time":"2025-04-19T09:53:08.898791249+05:30","level":"INFO","msg":"sender: closed","stream_id":"3k4r5ius"}
+{"time":"2025-04-19T09:53:08.898843157+05:30","level":"INFO","msg":"stream: closed","id":"3k4r5ius"}

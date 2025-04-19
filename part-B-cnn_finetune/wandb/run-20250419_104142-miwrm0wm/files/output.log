@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 78.35%, train accuracy 65.93%, train loss 1.1117, valid loss 0.7063
+Epoch 2: valid accuracy 79.25%, train accuracy 79.80%, train loss 0.6538, valid loss 0.6719
+Epoch 3: valid accuracy 80.00%, train accuracy 82.10%, train loss 0.5861, valid loss 0.6343
+Epoch 4: valid accuracy 78.80%, train accuracy 83.41%, train loss 0.5389, valid loss 0.6633
+Epoch 5: valid accuracy 79.35%, train accuracy 84.16%, train loss 0.5150, valid loss 0.6582
+Epoch 6: valid accuracy 78.50%, train accuracy 84.06%, train loss 0.4993, valid loss 0.6645
+Epoch 7: valid accuracy 78.60%, train accuracy 84.95%, train loss 0.4759, valid loss 0.6750
+Epoch 8: valid accuracy 81.25%, train accuracy 89.87%, train loss 0.3647, valid loss 0.6089
+Epoch 9: valid accuracy 80.95%, train accuracy 90.82%, train loss 0.3445, valid loss 0.6053
+Epoch 10: valid accuracy 81.60%, train accuracy 90.87%, train loss 0.3438, valid loss 0.5919
+Epoch 11: valid accuracy 81.05%, train accuracy 90.70%, train loss 0.3366, valid loss 0.6000
+Epoch 12: valid accuracy 81.25%, train accuracy 91.45%, train loss 0.3300, valid loss 0.5987
+Epoch 13: valid accuracy 80.90%, train accuracy 91.57%, train loss 0.3256, valid loss 0.6003
+Epoch 14: valid accuracy 80.95%, train accuracy 91.19%, train loss 0.3262, valid loss 0.6055
+Epoch 15: valid accuracy 81.25%, train accuracy 91.85%, train loss 0.3159, valid loss 0.5989
+
+Best model saved to best_model_miwrm0wm.pth with validation accuracy: 81.60%

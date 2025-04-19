@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 78.85%, train accuracy 65.75%, train loss 1.1093, valid loss 0.6994
+Epoch 2: valid accuracy 80.15%, train accuracy 80.54%, train loss 0.6151, valid loss 0.6432
+Epoch 3: valid accuracy 79.95%, train accuracy 83.45%, train loss 0.5147, valid loss 0.6151
+Epoch 4: valid accuracy 79.75%, train accuracy 86.80%, train loss 0.4153, valid loss 0.6302
+Epoch 5: valid accuracy 79.90%, train accuracy 87.87%, train loss 0.3637, valid loss 0.6404
+Epoch 6: valid accuracy 80.05%, train accuracy 89.99%, train loss 0.3072, valid loss 0.6868
+Epoch 7: valid accuracy 79.10%, train accuracy 92.24%, train loss 0.2399, valid loss 0.7134
+Epoch 8: valid accuracy 80.30%, train accuracy 95.11%, train loss 0.1706, valid loss 0.6555
+Epoch 9: valid accuracy 79.45%, train accuracy 95.99%, train loss 0.1473, valid loss 0.6671
+Epoch 10: valid accuracy 80.00%, train accuracy 96.27%, train loss 0.1393, valid loss 0.6615
+Epoch 11: valid accuracy 80.00%, train accuracy 96.75%, train loss 0.1266, valid loss 0.6783
+Epoch 12: valid accuracy 79.90%, train accuracy 96.79%, train loss 0.1234, valid loss 0.6667
+Epoch 13: valid accuracy 80.30%, train accuracy 96.86%, train loss 0.1216, valid loss 0.6684
+Epoch 14: valid accuracy 80.20%, train accuracy 96.92%, train loss 0.1184, valid loss 0.6690
+Epoch 15: valid accuracy 79.75%, train accuracy 97.01%, train loss 0.1162, valid loss 0.6857
+
+Best model saved to best_model_47sqa321.pth with validation accuracy: 80.30%

@@ -1,0 +1,16 @@
+{"time":"2025-04-18T23:28:27.920941771+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250418_232827-1keifu1p/logs/debug-core.log"}
+{"time":"2025-04-18T23:28:28.288704634+05:30","level":"INFO","msg":"created new stream","id":"1keifu1p"}
+{"time":"2025-04-18T23:28:28.288719041+05:30","level":"INFO","msg":"stream: started","id":"1keifu1p"}
+{"time":"2025-04-18T23:28:28.288728098+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1keifu1p"}
+{"time":"2025-04-18T23:28:28.288743297+05:30","level":"INFO","msg":"sender: started","stream_id":"1keifu1p"}
+{"time":"2025-04-18T23:28:28.28873997+05:30","level":"INFO","msg":"handler: started","stream_id":"1keifu1p"}
+{"time":"2025-04-18T23:28:28.638993105+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:28:28.724635659+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:28:28.724684421+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:28:29.687699637+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.091510283,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.091505364,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T23:28:30.208955113+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:28:30.54455312+05:30","level":"INFO","msg":"stream: closing","id":"1keifu1p"}
+{"time":"2025-04-18T23:28:30.544559051+05:30","level":"INFO","msg":"handler: closed","stream_id":"1keifu1p"}
+{"time":"2025-04-18T23:28:30.544563269+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1keifu1p"}
+{"time":"2025-04-18T23:28:30.544566625+05:30","level":"INFO","msg":"sender: closed","stream_id":"1keifu1p"}
+{"time":"2025-04-18T23:28:30.54459594+05:30","level":"INFO","msg":"stream: closed","id":"1keifu1p"}

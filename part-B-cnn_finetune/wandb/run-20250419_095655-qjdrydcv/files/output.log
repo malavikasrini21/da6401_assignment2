@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 77.75%, train accuracy 71.31%, train loss 0.9157, valid loss 0.7101
+Epoch 2: valid accuracy 78.00%, train accuracy 83.52%, train loss 0.5277, valid loss 0.7273
+Epoch 3: valid accuracy 68.55%, train accuracy 86.76%, train loss 0.4557, valid loss 1.9519
+Epoch 4: valid accuracy 77.05%, train accuracy 89.67%, train loss 0.4173, valid loss 0.7811
+Epoch 5: valid accuracy 75.80%, train accuracy 91.96%, train loss 0.2721, valid loss 0.7668
+Epoch 6: valid accuracy 81.25%, train accuracy 96.71%, train loss 0.1089, valid loss 0.6678
+Epoch 7: valid accuracy 81.50%, train accuracy 98.72%, train loss 0.0457, valid loss 0.6855
+Epoch 8: valid accuracy 80.95%, train accuracy 99.35%, train loss 0.0261, valid loss 0.7487
+Epoch 9: valid accuracy 81.70%, train accuracy 99.55%, train loss 0.0178, valid loss 0.7737
+Epoch 10: valid accuracy 81.15%, train accuracy 99.66%, train loss 0.0164, valid loss 0.7503
+Epoch 11: valid accuracy 81.35%, train accuracy 99.80%, train loss 0.0116, valid loss 0.7895
+Epoch 12: valid accuracy 81.20%, train accuracy 99.89%, train loss 0.0081, valid loss 0.7894
+Epoch 13: valid accuracy 81.40%, train accuracy 99.91%, train loss 0.0063, valid loss 0.8088
+Epoch 14: valid accuracy 81.60%, train accuracy 99.89%, train loss 0.0056, valid loss 0.8041
+Epoch 15: valid accuracy 82.00%, train accuracy 99.94%, train loss 0.0048, valid loss 0.8215
+
+Best model saved to best_model_qjdrydcv.pth with validation accuracy: 82.00%

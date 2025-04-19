@@ -1,0 +1,16 @@
+{"time":"2025-04-19T09:44:25.324097086+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_094425-dwiwhlzy/logs/debug-core.log"}
+{"time":"2025-04-19T09:44:25.692808531+05:30","level":"INFO","msg":"created new stream","id":"dwiwhlzy"}
+{"time":"2025-04-19T09:44:25.692825383+05:30","level":"INFO","msg":"stream: started","id":"dwiwhlzy"}
+{"time":"2025-04-19T09:44:25.692976145+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dwiwhlzy"}
+{"time":"2025-04-19T09:44:25.692993698+05:30","level":"INFO","msg":"sender: started","stream_id":"dwiwhlzy"}
+{"time":"2025-04-19T09:44:25.693009137+05:30","level":"INFO","msg":"handler: started","stream_id":"dwiwhlzy"}
+{"time":"2025-04-19T09:44:25.989664908+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T09:46:59.700622226+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T09:46:59.70065075+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T09:47:00.681095392+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.370453227,"progress":"999B/999B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.370447526,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.068160832,"progress":"1012B/1012B"}],"total_operations":3}}
+{"time":"2025-04-19T09:47:01.149144968+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T09:47:01.450330722+05:30","level":"INFO","msg":"stream: closing","id":"dwiwhlzy"}
+{"time":"2025-04-19T09:47:01.450336773+05:30","level":"INFO","msg":"handler: closed","stream_id":"dwiwhlzy"}
+{"time":"2025-04-19T09:47:01.450341241+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dwiwhlzy"}
+{"time":"2025-04-19T09:47:01.450344057+05:30","level":"INFO","msg":"sender: closed","stream_id":"dwiwhlzy"}
+{"time":"2025-04-19T09:47:01.45038312+05:30","level":"INFO","msg":"stream: closed","id":"dwiwhlzy"}

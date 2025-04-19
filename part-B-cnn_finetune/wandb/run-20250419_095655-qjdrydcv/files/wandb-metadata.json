@@ -1,0 +1,51 @@
+{
+  "os": "Linux-6.8.0-57-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-04-19T04:26:55.093186Z",
+  "args": [
+    "--use_wandb"
+  ],
+  "program": "/home/malavika/da6401_assignment2/part-B-cnn_finetune/train.py",
+  "codePath": "part-B-cnn_finetune/train.py",
+  "git": {
+    "remote": "https://github.com/malavikasrini21/da6401_assignment2.git",
+    "commit": "c28a41324f8d8dfaf4c17335c554e8a56f7653ee"
+  },
+  "email": "da24s010@smail.iitm.ac.in",
+  "root": "/home/malavika/da6401_assignment2/part-B-cnn_finetune",
+  "host": "class",
+  "executable": "/home/malavika/anaconda3/envs/cnn_env/bin/python3",
+  "codePathLocal": "train.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "200449576960",
+      "used": "40515612672"
+    }
+  },
+  "memory": {
+    "total": "66587422720"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 24
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 78.50%, train accuracy 68.87%, train loss 1.0215, valid loss 0.7042
+Epoch 2: valid accuracy 78.60%, train accuracy 79.42%, train loss 0.6543, valid loss 0.7002
+Epoch 3: valid accuracy 78.90%, train accuracy 80.55%, train loss 0.6055, valid loss 0.6708
+Epoch 4: valid accuracy 77.80%, train accuracy 82.36%, train loss 0.5597, valid loss 0.7049
+Epoch 5: valid accuracy 77.65%, train accuracy 83.09%, train loss 0.5372, valid loss 0.6993
+Epoch 6: valid accuracy 80.45%, train accuracy 82.96%, train loss 0.5273, valid loss 0.6514
+Epoch 7: valid accuracy 78.75%, train accuracy 84.07%, train loss 0.5054, valid loss 0.6639
+Epoch 8: valid accuracy 80.05%, train accuracy 84.50%, train loss 0.4823, valid loss 0.6342
+Epoch 9: valid accuracy 78.55%, train accuracy 84.41%, train loss 0.4865, valid loss 0.6732
+Epoch 10: valid accuracy 79.10%, train accuracy 84.39%, train loss 0.4758, valid loss 0.6815
+Epoch 11: valid accuracy 79.70%, train accuracy 84.82%, train loss 0.4643, valid loss 0.6658
+Epoch 12: valid accuracy 76.60%, train accuracy 84.60%, train loss 0.4732, valid loss 0.7481
+Epoch 13: valid accuracy 80.90%, train accuracy 89.36%, train loss 0.3517, valid loss 0.6045
+Epoch 14: valid accuracy 81.05%, train accuracy 91.45%, train loss 0.3081, valid loss 0.5952
+Epoch 15: valid accuracy 81.15%, train accuracy 92.11%, train loss 0.2978, valid loss 0.6017
+
+Best model saved to best_model_woms9liz.pth with validation accuracy: 81.15%

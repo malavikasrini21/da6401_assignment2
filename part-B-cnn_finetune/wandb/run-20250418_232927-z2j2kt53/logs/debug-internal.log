@@ -1,0 +1,16 @@
+{"time":"2025-04-18T23:29:27.445935535+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250418_232927-z2j2kt53/logs/debug-core.log"}
+{"time":"2025-04-18T23:29:27.807806759+05:30","level":"INFO","msg":"created new stream","id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:27.80782365+05:30","level":"INFO","msg":"stream: started","id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:27.807833909+05:30","level":"INFO","msg":"handler: started","stream_id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:27.807831114+05:30","level":"INFO","msg":"sender: started","stream_id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:27.807853025+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:28.140078977+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:29:28.224680812+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:29:28.224735244+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:29:29.187376446+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.093889414,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.093880066,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T23:29:29.915950425+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:29:30.230297485+05:30","level":"INFO","msg":"stream: closing","id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:30.230304709+05:30","level":"INFO","msg":"handler: closed","stream_id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:30.230309057+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:30.230312323+05:30","level":"INFO","msg":"sender: closed","stream_id":"z2j2kt53"}
+{"time":"2025-04-18T23:29:30.230339735+05:30","level":"INFO","msg":"stream: closed","id":"z2j2kt53"}

@@ -1,0 +1,16 @@
+{"time":"2025-04-19T10:52:51.765589363+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_105251-ewt8saxo/logs/debug-core.log"}
+{"time":"2025-04-19T10:52:52.132194182+05:30","level":"INFO","msg":"created new stream","id":"ewt8saxo"}
+{"time":"2025-04-19T10:52:52.132220471+05:30","level":"INFO","msg":"stream: started","id":"ewt8saxo"}
+{"time":"2025-04-19T10:52:52.132243094+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ewt8saxo"}
+{"time":"2025-04-19T10:52:52.132248784+05:30","level":"INFO","msg":"handler: started","stream_id":"ewt8saxo"}
+{"time":"2025-04-19T10:52:52.132291915+05:30","level":"INFO","msg":"sender: started","stream_id":"ewt8saxo"}
+{"time":"2025-04-19T10:52:52.428341226+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:56:39.628644202+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T10:56:39.628678136+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T10:56:40.62953611+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.416225629,"progress":"235B/235B"}],"total_operations":1}}
+{"time":"2025-04-19T10:56:41.499489562+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T10:56:41.797847234+05:30","level":"INFO","msg":"stream: closing","id":"ewt8saxo"}
+{"time":"2025-04-19T10:56:41.797856782+05:30","level":"INFO","msg":"handler: closed","stream_id":"ewt8saxo"}
+{"time":"2025-04-19T10:56:41.797862352+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ewt8saxo"}
+{"time":"2025-04-19T10:56:41.797869025+05:30","level":"INFO","msg":"sender: closed","stream_id":"ewt8saxo"}
+{"time":"2025-04-19T10:56:41.797911524+05:30","level":"INFO","msg":"stream: closed","id":"ewt8saxo"}

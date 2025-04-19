@@ -1,0 +1,16 @@
+{"time":"2025-04-19T00:08:55.599284614+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_000855-3hl89n70/logs/debug-core.log"}
+{"time":"2025-04-19T00:08:55.962966834+05:30","level":"INFO","msg":"created new stream","id":"3hl89n70"}
+{"time":"2025-04-19T00:08:55.962989507+05:30","level":"INFO","msg":"stream: started","id":"3hl89n70"}
+{"time":"2025-04-19T00:08:55.962998323+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3hl89n70"}
+{"time":"2025-04-19T00:08:55.963012059+05:30","level":"INFO","msg":"handler: started","stream_id":"3hl89n70"}
+{"time":"2025-04-19T00:08:55.963025033+05:30","level":"INFO","msg":"sender: started","stream_id":"3hl89n70"}
+{"time":"2025-04-19T00:08:56.264804599+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:08:56.593749981+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:08:56.593806928+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:08:57.554873075+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.977892349,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.977869807,"progress":"1.3KB/1.3KB"},{"desc":"uploading output.log","runtime_seconds":0.204750763,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.204744351,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-04-19T00:08:58.637606992+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:08:59.054968351+05:30","level":"INFO","msg":"stream: closing","id":"3hl89n70"}
+{"time":"2025-04-19T00:08:59.054977267+05:30","level":"INFO","msg":"handler: closed","stream_id":"3hl89n70"}
+{"time":"2025-04-19T00:08:59.054982738+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3hl89n70"}
+{"time":"2025-04-19T00:08:59.055003226+05:30","level":"INFO","msg":"sender: closed","stream_id":"3hl89n70"}
+{"time":"2025-04-19T00:08:59.055017082+05:30","level":"INFO","msg":"stream: closed","id":"3hl89n70"}

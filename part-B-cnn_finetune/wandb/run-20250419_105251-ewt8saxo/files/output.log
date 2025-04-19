@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 76.25%, train accuracy 71.38%, train loss 0.9240, valid loss 0.7547
+Epoch 2: valid accuracy 76.60%, train accuracy 83.84%, train loss 0.5312, valid loss 0.7276
+Epoch 3: valid accuracy 74.25%, train accuracy 87.19%, train loss 0.4266, valid loss 1.0396
+Epoch 4: valid accuracy 69.20%, train accuracy 89.41%, train loss 0.3711, valid loss 1.3307
+Epoch 5: valid accuracy 73.95%, train accuracy 91.29%, train loss 0.3069, valid loss 0.8005
+Epoch 6: valid accuracy 75.65%, train accuracy 92.37%, train loss 0.2634, valid loss 0.7966
+Epoch 7: valid accuracy 80.85%, train accuracy 97.02%, train loss 0.1137, valid loss 0.6815
+Epoch 8: valid accuracy 80.80%, train accuracy 98.87%, train loss 0.0424, valid loss 0.7281
+Epoch 9: valid accuracy 81.10%, train accuracy 99.36%, train loss 0.0234, valid loss 0.7401
+Epoch 10: valid accuracy 80.95%, train accuracy 99.71%, train loss 0.0131, valid loss 0.7810
+Epoch 11: valid accuracy 80.90%, train accuracy 99.81%, train loss 0.0123, valid loss 0.8094
+Epoch 12: valid accuracy 80.75%, train accuracy 99.90%, train loss 0.0071, valid loss 0.8532
+Epoch 13: valid accuracy 81.35%, train accuracy 99.92%, train loss 0.0051, valid loss 0.8602
+Epoch 14: valid accuracy 80.45%, train accuracy 99.95%, train loss 0.0043, valid loss 0.8562
+Epoch 15: valid accuracy 80.85%, train accuracy 99.94%, train loss 0.0045, valid loss 0.8541
+
+Best model saved to best_model_ewt8saxo.pth with validation accuracy: 81.35%

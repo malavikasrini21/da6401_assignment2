@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 78.55%, train accuracy 68.18%, train loss 1.0537, valid loss 0.6843
+Epoch 2: valid accuracy 78.60%, train accuracy 82.02%, train loss 0.5657, valid loss 0.6587
+Epoch 3: valid accuracy 79.20%, train accuracy 85.66%, train loss 0.4591, valid loss 0.6558
+Epoch 4: valid accuracy 80.05%, train accuracy 88.21%, train loss 0.3644, valid loss 0.6524
+Epoch 5: valid accuracy 78.40%, train accuracy 90.64%, train loss 0.2921, valid loss 0.6742
+Epoch 6: valid accuracy 79.05%, train accuracy 92.46%, train loss 0.2367, valid loss 0.7339
+Epoch 7: valid accuracy 79.35%, train accuracy 94.44%, train loss 0.1782, valid loss 0.7392
+Epoch 8: valid accuracy 78.75%, train accuracy 95.56%, train loss 0.1469, valid loss 0.7617
+Epoch 9: valid accuracy 79.25%, train accuracy 98.36%, train loss 0.0836, valid loss 0.7522
+Epoch 10: valid accuracy 79.35%, train accuracy 98.76%, train loss 0.0726, valid loss 0.7456
+Epoch 11: valid accuracy 79.55%, train accuracy 98.66%, train loss 0.0727, valid loss 0.7396
+Epoch 12: valid accuracy 79.00%, train accuracy 98.86%, train loss 0.0673, valid loss 0.7499
+Epoch 13: valid accuracy 79.55%, train accuracy 99.06%, train loss 0.0605, valid loss 0.7598
+Epoch 14: valid accuracy 79.40%, train accuracy 99.14%, train loss 0.0594, valid loss 0.7591
+Epoch 15: valid accuracy 79.85%, train accuracy 99.10%, train loss 0.0616, valid loss 0.7437
+
+Best model saved to best_model_cr35elnr.pth with validation accuracy: 80.05%

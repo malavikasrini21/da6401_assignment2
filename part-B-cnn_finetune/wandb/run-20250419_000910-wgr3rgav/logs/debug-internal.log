@@ -1,0 +1,16 @@
+{"time":"2025-04-19T00:09:10.822637175+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_000910-wgr3rgav/logs/debug-core.log"}
+{"time":"2025-04-19T00:09:11.203723467+05:30","level":"INFO","msg":"created new stream","id":"wgr3rgav"}
+{"time":"2025-04-19T00:09:11.203745027+05:30","level":"INFO","msg":"stream: started","id":"wgr3rgav"}
+{"time":"2025-04-19T00:09:11.203793508+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wgr3rgav"}
+{"time":"2025-04-19T00:09:11.203823023+05:30","level":"INFO","msg":"sender: started","stream_id":"wgr3rgav"}
+{"time":"2025-04-19T00:09:11.203841608+05:30","level":"INFO","msg":"handler: started","stream_id":"wgr3rgav"}
+{"time":"2025-04-19T00:09:11.475233932+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:12:27.555900441+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:12:27.555928564+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:12:28.557265371+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.400604141,"progress":"1.5KB/1.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.118587118,"progress":"976B/976B"}],"total_operations":2}}
+{"time":"2025-04-19T00:12:29.440213718+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:12:29.748963418+05:30","level":"INFO","msg":"stream: closing","id":"wgr3rgav"}
+{"time":"2025-04-19T00:12:29.748971704+05:30","level":"INFO","msg":"handler: closed","stream_id":"wgr3rgav"}
+{"time":"2025-04-19T00:12:29.748976383+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wgr3rgav"}
+{"time":"2025-04-19T00:12:29.748979338+05:30","level":"INFO","msg":"sender: closed","stream_id":"wgr3rgav"}
+{"time":"2025-04-19T00:12:29.749025194+05:30","level":"INFO","msg":"stream: closed","id":"wgr3rgav"}

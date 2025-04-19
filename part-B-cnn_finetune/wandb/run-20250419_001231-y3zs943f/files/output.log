@@ -1,0 +1,5 @@
+[34m[1mwandb[0m: [33mWARNING[0m Ignoring project 'da6401_assignment2' when running a sweep.
+Epoch 1: valid accuracy 58.60%, train accuracy 32.32%, train loss 2.2713, valid loss 2.2549
+Epoch 2: valid accuracy 57.40%, train accuracy 50.61%, train loss 2.2587, valid loss 2.2686
+Epoch 3: valid accuracy 49.20%, train accuracy 49.53%, train loss 2.2793, valid loss 2.2891
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

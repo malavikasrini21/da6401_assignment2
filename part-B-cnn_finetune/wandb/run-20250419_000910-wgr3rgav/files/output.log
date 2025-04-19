@@ -1,0 +1,18 @@
+[34m[1mwandb[0m: [33mWARNING[0m Ignoring project 'da6401_assignment2' when running a sweep.
+Epoch 1: valid accuracy 79.35%, train accuracy 66.40%, train loss 1.0945, valid loss 0.7015
+Epoch 2: valid accuracy 79.70%, train accuracy 76.98%, train loss 0.7360, valid loss 0.6745
+Epoch 3: valid accuracy 80.05%, train accuracy 78.96%, train loss 0.6670, valid loss 0.6363
+Epoch 4: valid accuracy 79.25%, train accuracy 80.60%, train loss 0.6287, valid loss 0.6282
+Epoch 5: valid accuracy 79.80%, train accuracy 80.14%, train loss 0.6214, valid loss 0.6466
+Epoch 6: valid accuracy 79.45%, train accuracy 80.65%, train loss 0.6063, valid loss 0.6217
+Epoch 7: valid accuracy 80.65%, train accuracy 80.47%, train loss 0.5944, valid loss 0.6059
+Epoch 8: valid accuracy 78.70%, train accuracy 80.47%, train loss 0.5897, valid loss 0.6470
+Epoch 9: valid accuracy 79.45%, train accuracy 80.96%, train loss 0.5895, valid loss 0.6210
+Epoch 10: valid accuracy 80.30%, train accuracy 81.31%, train loss 0.5817, valid loss 0.6108
+Epoch 11: valid accuracy 80.15%, train accuracy 82.14%, train loss 0.5554, valid loss 0.6468
+Epoch 12: valid accuracy 80.55%, train accuracy 86.47%, train loss 0.4431, valid loss 0.5960
+Epoch 13: valid accuracy 81.50%, train accuracy 87.44%, train loss 0.4017, valid loss 0.5760
+Epoch 14: valid accuracy 81.35%, train accuracy 87.25%, train loss 0.3986, valid loss 0.5756
+Epoch 15: valid accuracy 81.10%, train accuracy 88.39%, train loss 0.3850, valid loss 0.5839
+
+Best model saved to best_model_wgr3rgav.pth with validation accuracy: 81.50%

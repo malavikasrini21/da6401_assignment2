@@ -1,0 +1,16 @@
+{"time":"2025-04-19T11:14:27.791536712+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_111427-cr35elnr/logs/debug-core.log"}
+{"time":"2025-04-19T11:14:28.168008329+05:30","level":"INFO","msg":"created new stream","id":"cr35elnr"}
+{"time":"2025-04-19T11:14:28.168033937+05:30","level":"INFO","msg":"stream: started","id":"cr35elnr"}
+{"time":"2025-04-19T11:14:28.168080655+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cr35elnr"}
+{"time":"2025-04-19T11:14:28.168223985+05:30","level":"INFO","msg":"sender: started","stream_id":"cr35elnr"}
+{"time":"2025-04-19T11:14:28.16824273+05:30","level":"INFO","msg":"handler: started","stream_id":"cr35elnr"}
+{"time":"2025-04-19T11:14:28.44867281+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T11:17:56.368617335+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T11:17:56.368661688+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T11:17:57.341720089+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.377535877,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.116611885,"progress":"1009B/1009B"}],"total_operations":2}}
+{"time":"2025-04-19T11:17:58.249178734+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T11:17:58.70752788+05:30","level":"INFO","msg":"stream: closing","id":"cr35elnr"}
+{"time":"2025-04-19T11:17:58.707536015+05:30","level":"INFO","msg":"handler: closed","stream_id":"cr35elnr"}
+{"time":"2025-04-19T11:17:58.70754351+05:30","level":"INFO","msg":"sender: closed","stream_id":"cr35elnr"}
+{"time":"2025-04-19T11:17:58.707542157+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cr35elnr"}
+{"time":"2025-04-19T11:17:58.707589756+05:30","level":"INFO","msg":"stream: closed","id":"cr35elnr"}

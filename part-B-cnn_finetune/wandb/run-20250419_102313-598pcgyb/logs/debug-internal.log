@@ -1,0 +1,16 @@
+{"time":"2025-04-19T10:23:13.998772436+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/malavika/da6401_assignment2/part-B-cnn_finetune/wandb/run-20250419_102313-598pcgyb/logs/debug-core.log"}
+{"time":"2025-04-19T10:23:14.364477539+05:30","level":"INFO","msg":"created new stream","id":"598pcgyb"}
+{"time":"2025-04-19T10:23:14.36452081+05:30","level":"INFO","msg":"stream: started","id":"598pcgyb"}
+{"time":"2025-04-19T10:23:14.364580863+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"598pcgyb"}
+{"time":"2025-04-19T10:23:14.36459545+05:30","level":"INFO","msg":"handler: started","stream_id":"598pcgyb"}
+{"time":"2025-04-19T10:23:14.364623222+05:30","level":"INFO","msg":"sender: started","stream_id":"598pcgyb"}
+{"time":"2025-04-19T10:23:14.677483498+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:26:43.212801389+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T10:26:43.212838758+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T10:26:44.185605304+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.405871709,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.138116437,"progress":"1015B/1015B"}],"total_operations":2}}
+{"time":"2025-04-19T10:26:44.38013359+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T10:26:44.840327477+05:30","level":"INFO","msg":"stream: closing","id":"598pcgyb"}
+{"time":"2025-04-19T10:26:44.840335782+05:30","level":"INFO","msg":"handler: closed","stream_id":"598pcgyb"}
+{"time":"2025-04-19T10:26:44.840341453+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"598pcgyb"}
+{"time":"2025-04-19T10:26:44.84034538+05:30","level":"INFO","msg":"sender: closed","stream_id":"598pcgyb"}
+{"time":"2025-04-19T10:26:44.840385083+05:30","level":"INFO","msg":"stream: closed","id":"598pcgyb"}

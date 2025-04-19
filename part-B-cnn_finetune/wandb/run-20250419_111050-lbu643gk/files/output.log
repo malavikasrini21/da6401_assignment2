@@ -1,0 +1,17 @@
+Epoch 1: valid accuracy 78.25%, train accuracy 66.35%, train loss 1.0926, valid loss 0.7009
+Epoch 2: valid accuracy 78.85%, train accuracy 79.95%, train loss 0.6477, valid loss 0.6807
+Epoch 3: valid accuracy 78.65%, train accuracy 82.80%, train loss 0.5737, valid loss 0.6581
+Epoch 4: valid accuracy 79.20%, train accuracy 83.26%, train loss 0.5351, valid loss 0.6493
+Epoch 5: valid accuracy 80.10%, train accuracy 83.55%, train loss 0.5154, valid loss 0.6287
+Epoch 6: valid accuracy 79.95%, train accuracy 85.31%, train loss 0.4739, valid loss 0.6352
+Epoch 7: valid accuracy 79.25%, train accuracy 85.52%, train loss 0.4628, valid loss 0.6549
+Epoch 8: valid accuracy 80.30%, train accuracy 85.95%, train loss 0.4483, valid loss 0.6395
+Epoch 9: valid accuracy 80.10%, train accuracy 86.15%, train loss 0.4403, valid loss 0.6573
+Epoch 10: valid accuracy 81.25%, train accuracy 89.82%, train loss 0.3394, valid loss 0.6081
+Epoch 11: valid accuracy 81.10%, train accuracy 91.55%, train loss 0.3154, valid loss 0.5970
+Epoch 12: valid accuracy 80.70%, train accuracy 91.70%, train loss 0.3108, valid loss 0.5932
+Epoch 13: valid accuracy 81.00%, train accuracy 92.02%, train loss 0.3048, valid loss 0.5923
+Epoch 14: valid accuracy 81.05%, train accuracy 92.50%, train loss 0.3005, valid loss 0.6080
+Epoch 15: valid accuracy 81.15%, train accuracy 92.19%, train loss 0.2978, valid loss 0.6020
+
+Best model saved to best_model_lbu643gk.pth with validation accuracy: 81.25%
